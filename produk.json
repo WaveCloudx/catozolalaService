@@ -2,23 +2,6 @@
   "nama": "Toko Catozolala",
   "rekening": 527282882262,
   "produk": [
-    {
-      "id": 9384,
-      "nama": "Kaos Anime",
-      "harga": 50000,
-      "stok": 5
-    },
-    {
-      "id": 9361,
-      "nama": "catozolala",
-      "harga": 100000,
-      "stok": 10
-    },
-    {
-      "id": 4684,
-      "nama": "catozolala1",
-      "harga": 100000,
-      "stok": 0
-    }
+    { "id": 9384, "nama": "Kaos Anime", "harga": 50000, "stok": 10 }
   ]
 }
