@@ -7,6 +7,12 @@
       "nama": "Kaos Anime",
       "harga": 50000,
       "stok": 3
+    },
+    {
+      "id": 9618,
+      "nama": "figure anime",
+      "harga": 1000,
+      "stok": 1000
     }
   ]
 }
